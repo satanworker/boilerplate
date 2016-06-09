@@ -4,7 +4,7 @@ import * as _ from "underscore";
 @Injectable()
 
 export class HttpService{
-    constructor(private globalService: GlobalService){
+    constructor(private globalService: GlobalService){ 
 
     }
 }
